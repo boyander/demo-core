@@ -1,5 +1,5 @@
 const saluda = (nombre) => {
-  console.log(`Hola que tal estás ${nombre}`);
+  console.log(`🇬🇧 Hello ${nombre}`);
 };
 
 saluda("Pepe");
