@@ -1,4 +1,5 @@
 # 👋🏻 Bienvenido a CORE
 
 Conócenos
-[https://www.corecode.school](CORE Code School)
+
+[CORE Code School](https://www.corecode.school)
